@@ -12,7 +12,7 @@ I'm a passionate web developer from Hungary, dedicated to crafting efficient and
 - Frontend: React, HTML, CSS, JavaScript
 - Backend: Node.js, Express
 - Databases: MongoDB, SQL, Postgres
-- Tools: Git, Webstorm, npm
+- Tools: Git, Webstorm, npm, deno
 
 ### 🌱 Currently Learning
 
@@ -28,7 +28,6 @@ Always improving my skills in modern web technologies and exploring new framewor
 
 - [Portfolio Website](https://adiiwill.github.io)
 - [LinkedIn](https://www.linkedin.com/in/gazdagadam)
-- [Email](mailto:gazdagadam02@gmail.com)
 
 ### ⚡ Fun Fact
 
