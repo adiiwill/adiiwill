@@ -1,6 +1,6 @@
 # Hi there, I'm Ádám Gazdag 👋
 
-## 💻 Full Stack Web Developer | 🚀 JavaScript Enthusiast  
+## 💻 Front-End Web Developer | 🚀 JavaScript Enthusiast  
 *"Turning creative ideas into sleek, functional web experiences"*
 
 I'm a passionate web developer from Hungary, dedicated to crafting efficient and innovative web solutions that blend functionality with creativity.
